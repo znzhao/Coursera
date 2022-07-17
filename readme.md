@@ -5,8 +5,9 @@ In this project I will try to answer the questions of the following:
 
  Unemployment data comes from the US FED:
  
-   https://fred.stlouisfed.org/series/ANNA426URN
-   https://fred.stlouisfed.org/series/AUST448URN
+   Ann Arbor: https://fred.stlouisfed.org/series/ANNA426URN
+   
+   Austin: https://fred.stlouisfed.org/series/AUST448URN
 
  House Price Data comes from the Zillow Website:
  https://www.zillow.com/research/data/
